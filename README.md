@@ -1,3 +1,4 @@
+![MasterHead](https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)
 <h1 align="center">Hi there, I'm Madhawa Awishka 👋</h1>
 <div> <a href="https://twitter.com/MadhawaAwishka" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/madhawaawishka" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
@@ -40,3 +41,6 @@
 <img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=madhawaawishka99&layout=compact&theme=dark" alt=madhawaawishka99 />
 
 <p>&nbsp;<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=madhawaawishka99&show_icons=true&locale=en&theme=radical" alt="madhawaawishka99" /></p>
+
+<h3 align="left">Support:</h3>
+<p><a href="https://www.buymeacoffee.com/madhawaawishka"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="madhawaawishka" /></a></p><br><br>
