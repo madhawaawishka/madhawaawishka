@@ -23,7 +23,7 @@
 
 
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">Languages and :</h3>
 
 [![My Skills](https://skillicons.dev/icons?i=aws,gcp,azure,react,vue,androidstudio,angular,bootstrap,c,cpp,css,dart,eclipse,figma,latex,firebase,flutter,git,heroku,html,idea,htmx,java,js,jquery,kotlin,mongodb,mysql,netlify,nextjs,nodejs,npm,octave,php,pnpm,postman,powershell,py,react,ts,ubuntu,visualstudio,vscode,vite,apple,windows,)](https://skillicons.dev)
 
