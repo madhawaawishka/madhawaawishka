@@ -36,5 +36,5 @@
 <h3 align="left">Stats:</h3>
 <img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=madhawaawishka&layout=compact&theme=dark" alt=madhawaawishka" />
 
-<p>&nbsp;<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=madhawaawishka99&show_icons=true&locale=en&theme=radical" alt="madhawaawishka99" /></p>
+<p>&nbsp;<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=madhawaawishka&show_icons=true&locale=en&theme=radical" alt="madhawaawishka" /></p>
 
