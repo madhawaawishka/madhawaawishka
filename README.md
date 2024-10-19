@@ -1,6 +1,6 @@
 ![MasterHead](https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="45" height="45" />,I'm Madhawa Awishka</h1>
-<h3 align="center">Self-Taught Developer , Tech Enthusiadsdfgdftffdsdffffgfdftg</h3>
+<h3 align="center">Self-Taught Developer , Tech Enthusiadsdfgdftffdsdfffdfgfdftg</h3>
 
 
 
