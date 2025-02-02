@@ -28,13 +28,12 @@
 [![My Skills](https://skillicons.dev/icons?i=aws,gcp,azure,react,vue,androidstudio,angular,bootstrap,c,cpp,css,dart,eclipse,figma,latex,firebase,flutter,git,heroku,html,idea,gradle,htmx,java,js,r,react,jquery,replit,sqlite,stackoverflow,wordpress,kotlin,linux,mongodb,mysql,netlify,nextjs,nodejs,npm,octave,php,pnpm,postman,powershell,py,react,ts,ubuntu,visualstudio,vscode,vite,devto,discord,github,gmail,apple,windows,)](https://skillicons.dev)
 
 
-  
-
-<h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/madhawaawishka"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="madhawaawishka" /></a></p><br><br>
 
 <h3 align="left">Stats:</h3>
 <img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=madhawaawishka&layout=compact&theme=dark" alt=madhawaawishka" />
 
 <p>&nbsp;<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=madhawaawishka&show_icons=true&locale=en&theme=radical" alt="madhawaawishka" /></p>
 
+
+<h3 align="left">Support:</h3>
+<p><a href="https://www.buymeacoffee.com/madhawaawishka"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="madhawaawishka" /></a></p><br><br>
