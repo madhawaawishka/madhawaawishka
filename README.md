@@ -25,7 +25,7 @@
 
 <h3 align="left">Languages and Tools:</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=aws,gcp,azure,react,vue,androidstudio,angular,bootstrap,c,cpp,css,dart,eclipse,figma,latex,firebase,flutter,git,heroku,html,idea,gradle,htmx,java,js,r,react,jquery,replit,sqlite,stackoverflow,wordpress,kotlin,linux,mongodb,mysql,netlify,nextjs,nodejs,npm,octave,php,pnpm,postman,powershell,py,react,ts,ubuntu,visualstudio,vscode,vite,devto,discord,github,gmail,apple,windows,)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=aws,gcp,azure,react,vue,nestjs,androidstudio,angular,bootstrap,c,cpp,css,dart,eclipse,figma,latex,firebase,postgres,flutter,git,heroku,html,idea,express,gradle,htmx,java,js,r,react,jquery,replit,sqlite,stackoverflow,wordpress,kotlin,linux,mongodb,mysql,netlify,nextjs,nodejs,npm,octave,php,pnpm,postman,powershell,py,react,ts,ubuntu,docker,visualstudio,idea,vscode,webstorm,eclipse,figma,vite,devto,discord,github,gmail,apple,windows,)](https://skillicons.dev)
 
 
 
