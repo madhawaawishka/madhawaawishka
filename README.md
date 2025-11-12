@@ -29,13 +29,13 @@
 
 
 
+[![An image of @madhawaawishka's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/madhawaawishka)](https://holopin.io/@madhawaawishka)
+
+
 <h3 align="left">Stats:</h3>
 <img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=madhawaawishka&layout=compact&theme=dark" alt=madhawaawishka" />
 
-<p>&nbsp;<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=madhawaawishka&show_icons=true&locale=en&theme=radical" alt="madhawaawishka" /></p><br><br>
-
-
-[![An image of @madhawaawishka's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/madhawaawishka)](https://holopin.io/@madhawaawishka)
+<p>&nbsp;<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=madhawaawishka&show_icons=true&locale=en&theme=radical" alt="madhawaawishka" /></p><br>
 
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/madhawaawishka"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="madhawaawishka" /></a></p><br><br>
