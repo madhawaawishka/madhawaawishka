@@ -3,7 +3,7 @@
 <h1 align="center">
   Hi 👋, I'm Madhawa Awishka
 </h1>
-<h3 align="center">Self-Taught Developer , Tech Enthusiast</h3>
+<!-- <h3 align="center">Self-Taught Developer , Tech Enthusiast</h3> -->
 
 
 
