@@ -53,9 +53,3 @@ TypeScript · JavaScript · Python · Java · SQL · Git · Jest
 **A Multi-Stage Explainable AI Architecture for Stock Forecasting and Portfolio Decision Support**
 
 Published at IEEE – 18th International Conference on Electronics, Computers and Artificial Intelligence (ECAI 2026).
-
-## Education
-
-**BSc (Hons) in Information Technology – Specializing in Software Engineering**
-
-Sri Lanka Institute of Information Technology (SLIIT) · 2022–2026
