@@ -60,8 +60,6 @@ Published at IEEE – 18th International Conference on Electronics, Computers an
 
 Sri Lanka Institute of Information Technology (SLIIT) · 2022–2026
 
-Second Class Honours · Dean's List – Academic Excellence
-
 
 <h3 align="left">Languages and Tools:</h3>
 
