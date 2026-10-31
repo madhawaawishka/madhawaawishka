@@ -59,8 +59,3 @@ Published at IEEE – 18th International Conference on Electronics, Computers an
 **BSc (Hons) in Information Technology – Specializing in Software Engineering**
 
 Sri Lanka Institute of Information Technology (SLIIT) · 2022–2026
-
-
-<h3 align="left">Languages and Tools:</h3>
-
-[![My Skills](https://skillicons.dev/icons?i=aws,gcp,azure,react,vue,nestjs,androidstudio,angular,bootstrap,c,cpp,css,dart,eclipse,figma,latex,firebase,postgres,flutter,git,heroku,html,idea,express,gradle,htmx,java,js,r,react,jquery,replit,sqlite,stackoverflow,wordpress,kotlin,linux,mongodb,mysql,prisma,netlify,nextjs,nodejs,npm,octave,php,pnpm,kafka,jest,md,materialui,selenium,tensorflow,postman,powershell,py,react,ts,ubuntu,docker,visualstudio,idea,vscode,webstorm,eclipse,figma,vite,devto,discord,github,gmail,apple,windows,)](https://skillicons.dev)
